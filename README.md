@@ -563,3 +563,7 @@ These data are currently being re-uploaded.
 - <a href="https://epiqc.s3.us-east-2.amazonaws.com/5mC_NA24644_18_TTTCAC_S25_L005_R1_001.fastq.gz"> 5mC_NA24644_18_TTTCAC_S25_L005_R1.fastq.gz </a>
 - <a href="https://epiqc.s3.us-east-2.amazonaws.com/5mC_NA24645_13_TTGACT_S20_L005_R1_001.fastq.gz">  5mC_NA24645_13_TTGACT_S20_L005_R1.fastq.gz </a>
 
+
+# Download notes
+
+Please refer to the Amazon Web Services <a href="https://aws.amazon.com/cli/">command-line interface documentation</a> for best practices, particularly for batch downloads. Append `s3://` to the start of each hyperlink for command-line retrieval.
